@@ -1,0 +1,28 @@
+.App {
+  width: 100vw;
+  height: 100vh;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.light {
+  background-color: #f0f0f0;
+  color: #333;
+  Ø button {
+    background-color: #333;
+    color: #f0f0f0;
+  }
+}
+
+.dark {
+  background-color: #333;
+  color: #f0f0f0;
+
+  button {
+    background-color: #f0f0f0;
+    color: #333;
+  }
+}
