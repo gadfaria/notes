@@ -1,0 +1,1 @@
+The Prototype pattern is a creative design pattern that allows the cloning of objects, even complex ones, without coupling them to the specific code of their classes. This pattern is useful when creating objects directly is expensive or complex.
